@@ -1,7 +1,6 @@
 # 🚦 AI-Powered Perpetrator Identification in Road Accidents  
 ## 🔍 An AI-driven system for identifying vehicles involved in hit-and-run accidents  
 
-![Project Banner](https://via.placeholder.com/1200x400?text=AI+Perpetrator+Detection)  
 
 ## 📌 Overview  
 This project is an **AI-powered computer vision system** that **detects, identifies, and acknowledges** vehicles involved in **hit-and-run accidents** using **machine learning and IoT integration**. The goal is to assist **law enforcement, insurance companies, and city traffic authorities** by automating **real-time perpetrator detection** from **CCTV/dashcam footage**.  
